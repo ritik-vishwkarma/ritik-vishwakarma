@@ -1,88 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f3ff&height=250&section=header&text=Ritik%20Vishwkarma&fontSize=80&fontColor=0b0f19&fontAlignY=35&desc=The%20Time-Traveling%20Architect&descSize=25&descAlignY=55&descAlign=50" alt="Ritik Vishwkarma Heritage Header" />
+  <h1 align="center">Ritik Vishwakarma</h1>
+  <h3 align="center">Python Developer | AI & Machine Learning Enthusiast</h3>
+  
+  <p align="center">
+    <a href="mailto:contact@ritikvishwkarma.dev">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=minutemailer&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/ritik-vishwkarma">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/ritik-vishwkarma">
+      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a passionate **Python Developer** and **AI Researcher** focused on building intelligent systems. My work bridges the gap between complex machine learning models and real-world applications.
+
+*   🔭 I’m currently working on **Real-Time Speaker Diarization** and **Spectral Analysis**.
+*   🌱 I’m deeply interested in **Audio Processing**, **Computer Vision**, and **Automation**.
+*   🤝 I love learning new tools and sharing knowledge with the community.
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=25&duration=3000&pause=1000&color=F7D51D&center=true&vCenter=true&width=500&lines=I+do+not+seek+the+Crown.;I+secure+the+Kingdom.;Architecting+Invisible+Fortresses.;Reverse-Engineering+Fate.)](https://git.io/typing-svg)
+  **Core Stack**
+  <br />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts&perline=6" />
+  
+  **AI & Data Science**
+  <br />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy,scikitlearn&perline=6" />
+  
+  **Development & DevOps**
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,bash&perline=6" />
 
 </div>
 
 ---
 
-<div align="center">
-  
-  <a href="mailto:contact@ritikvishwkarma.dev">
-    <img src="https://img.shields.io/badge/Accept_Quest-00f3ff?style=for-the-badge&logo=minutemailer&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/ritik-vishwkarma">
-    <img src="https://img.shields.io/badge/Connect-ffd700?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="#projects">
-    <img src="https://img.shields.io/badge/View_Portfolio-39ff14?style=for-the-badge&logo=react&logoColor=black" alt="Portfolio" />
-  </a>
+## 🚀 Featured Projects
 
-</div>
-
-<br />
-
-## 🕉️ The Vidura Archetype
-> *"In the great courts of code, I stand not as a King, but as the advisor who anticipates the fall."*
-
-I am a **Creative Technologist** who fuses **Ancient Indian Wisdom** with **Cyberpunk Futurism**. My code is not just syntax; it is *Scripture* written in Silicon. I specialize in building **antifragile systems**—architectures that grow stronger under stress.
-
-*   **The Vow**: I do not ship broken code. I do not compromise on security. 
-*   **The Method**: **Vakri (Retrograde)**. I build backward from the failure point to guarantee resilience.
-*   **The Aesthetic**: Imperial Gold meets Electric Cyan.
-
----
-
-## ⚔️ Weapons of Creation (Tech Stack)
-
-<div align="center">
-  
-  ### **THE CHAKRA VYUH (Frontend)**
-  <img src="https://skillicons.dev/icons?i=react,threejs,nextjs,tailwind,ts,vite&perline=6" />
-  
-  ### **THE VAULT (Backend)**
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,postgres,redis,mongodb,docker&perline=6" />
-  
-  ### **THE ASTRAL PLANE (Tools)**
-  <img src="https://skillicons.dev/icons?i=git,github,aws,linux,figma,postman&perline=6" />
-
-</div>
-
----
-
-## 📜 The Chronicles (Featured Projects)
-
-| **The Artifact** | **The Myth** | **The Tech** |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Hanuman CDN](https://github.com/ritik-vishwkarma/hanuman-cdn)** | *The Great Leap* | Cloudflare Workers, Edge Computing |
-| **[Chakra Vault](https://github.com/ritik-vishwkarma/chakra-vault)** | *The Unbreachable Formation* | Node.js, AES-256, Zero-Trust |
-| **[Mayasura Analytics](https://github.com/ritik-vishwkarma/mayasura-analytics)** | *The Palace of Illusions* | WebGL, D3.js, TensorFlow |
+| **[Real-Time Diarization](https://github.com/ritik-vishwkarma/Real-Time-Diarization)** | A system for real-time speaker diarization, capable of distinguishing multiple speakers in live audio streams. | Python, PyTorch, Audio Processing |
+| **[SpectraLog](https://github.com/ritik-vishwkarma/SpectraLog)** | Advanced spectral analysis and logging tool for audio data. | Python, Signal Processing |
+| **[Sep-TFAnet](https://github.com/ritik-vishwkarma/Sep-TFAnet-Real-Time)** | Implementation of Time-Frequency Attention Network for real-time speech separation. | Python, Deep Learning, Jupyter |
+| **[NLP Emoji Recommender](https://github.com/ritik-vishwkarma/NLP-Emoji-Recommender)** | An NLP model that recommends emojis based on text sentiment and context. | Python, NLP, Scikit-learn |
+| **[Android Farm ADB](https://github.com/ritik-vishwkarma/Android---Farm-WIFI-ADB)** | Automation tool to manage ADB connections over WiFi for device farms. | Python, ADB, Automation |
 
 ---
 
-## 📊 The Astral Charts (GitHub Stats)
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritik-vishwkarma&show_icons=true&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00f3ff&icon_color=ffd700&text_color=ffffff" alt="Ritik's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-vishwkarma&theme=radical&hide_border=true&background=0b0f19&stroke=00f3ff&ring=ffd700&fire=ff0066&currStreakLabel=FFD700" alt="Ritik's Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-vishwkarma&layout=compact&theme=radical&hide_border=true&bg_color=0b0f19&title_color=00f3ff&text_color=ffffff" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-
-> *"न जातु कामान्न भयान्न लोभात्"*
-> 
-> *"Never from desire, never from fear, never from greed."*
-> 
-> **— The Architect**
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ritik-vishwkarma&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="Ritik's Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-vishwkarma&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Ritik's Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritik-vishwkarma&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 </div>
